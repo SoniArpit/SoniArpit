@@ -21,4 +21,9 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Keep Growing as a Programmer ✊](https://www.codesnail.com/how-to-keep-growing-as-a-programmer/)
+- [FLAMES Game in Python – Check Your Relationship 😍](https://www.codesnail.com/flames-game-in-python/)
+- [Python Input and Output Quiz](https://www.codesnail.com/python-input-and-output-quiz/)
+- [Build A Weather App Using JavaScript [For Beginners] ☀️🌤️](https://www.codesnail.com/build-a-weather-app-using-javascript/)
+- [AutoPlay Chrome Dinosaur Game with JavaScript 🦖](https://www.codesnail.com/autoplay-chrome-dinosaur-game-with-javascript/)
 <!-- BLOG-POST-LIST:END -->
