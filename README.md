@@ -8,6 +8,8 @@
 - 🎯 2021 Goals: Contribute to Open Source projects and build coding community
 - ⚡ Fun fact: I'm still single
 
+---
+
 ### Social Links:
 
 [Website](https://www.codesnail.com/)<br>
@@ -16,7 +18,8 @@
 [LinkedIn](https://www.linkedin.com/in/arpitsoni108/)<br>
 [Dev.to](https://dev.to/codesnail/)<br>
 [StackOverflow](https://stackoverflow.com/users/8997228/arpit-soni)
-<br />
+
+---
 
 ### Latest Blog Posts:
 
@@ -32,5 +35,5 @@
 ![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=soniarpit&show_icons=true&theme=dark&icon_color=fff)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soniarpit)](https://github.com/SoniArpit/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soniarpit?theme=dark)](https://github.com/SoniArpit/)
 
