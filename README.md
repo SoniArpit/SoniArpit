@@ -27,3 +27,10 @@
 - [Build A Weather App Using JavaScript [For Beginners] ☀️🌤️](https://www.codesnail.com/build-a-weather-app-using-javascript/)
 - [AutoPlay Chrome Dinosaur Game with JavaScript 🦖](https://www.codesnail.com/autoplay-chrome-dinosaur-game-with-javascript/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=soniarpit&show_icons=true&theme=dark&icon_color=fff)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soniarpit)](https://github.com/SoniArpit/)
+
