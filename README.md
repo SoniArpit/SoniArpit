@@ -35,5 +35,5 @@
 ![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=soniarpit&show_icons=true&theme=dark&icon_color=fff)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soniarpit?theme=dark)](https://github.com/SoniArpit/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soniarpit)](https://github.com/SoniArpit/)
 
