@@ -12,4 +12,3 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.codesnail.com/feed/"
-max_post_count: 10
