@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Get Phone Number Information using Python](https://www.codesnail.com/get-phone-number-information-using-python/)
 - [How to Create and Extract Zip File using Python](https://www.codesnail.com/how-to-create-and-extract-zip-file-using-python/)
 - [URL Shortener in Python](https://www.codesnail.com/url-shortener-in-python/)
 - [Get Current Weather of Any City in Python | Weather App in Python](https://www.codesnail.com/get-current-weather-of-any-city-in-python-weather-app-in-python/)
 - [How to Keep Growing as a Programmer ✊](https://www.codesnail.com/how-to-keep-growing-as-a-programmer/)
-- [FLAMES Game in Python – Check Your Relationship 😍](https://www.codesnail.com/flames-game-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
