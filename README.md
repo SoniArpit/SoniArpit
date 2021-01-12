@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Convert Speech to Text and Text to Speech in Python](https://www.codesnail.com/convert-speech-to-text-and-text-to-speech-in-python/)
 - [Random Wikipedia Article Generator in Python](https://www.codesnail.com/random-wikipedia-article-generator-in-python/)
 - [Convert Color Photo to Black and White in Python](https://www.codesnail.com/convert-color-photo-to-black-and-white-in-python/)
 - [Get Phone Number Information using Python](https://www.codesnail.com/get-phone-number-information-using-python/)
 - [How to Create and Extract Zip File using Python](https://www.codesnail.com/how-to-create-and-extract-zip-file-using-python/)
-- [URL Shortener in Python](https://www.codesnail.com/url-shortener-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
