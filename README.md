@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [#4 HTML Elements](https://www.codesnail.com/html-elements/)
 - [#3 HTML Basic](https://www.codesnail.com/html-basic/)
 - [#2 Editors for HTML](https://www.codesnail.com/editor-for-html/)
 - [#1 Introduction to HTML](https://www.codesnail.com/introduction-to-html/)
 - [HTML Tutorial](https://www.codesnail.com/html-tutorial/)
-- [Web Design – The Ultimate Guide](https://www.codesnail.com/web-design-the-ultimate-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
