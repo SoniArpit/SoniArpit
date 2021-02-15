@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [#8 HTML Text Formatting](https://www.codesnail.com/html-text-formatting/)
+- [#7 HTML Paragraphs](https://www.codesnail.com/html-paragraphs/)
 - [#6 HTML Headings](https://www.codesnail.com/6-html-headings/)
 - [#5 HTML Attributes](https://www.codesnail.com/html-attributes/)
 - [#4 HTML Elements](https://www.codesnail.com/html-elements/)
-- [#3 HTML Basic](https://www.codesnail.com/html-basic/)
-- [#2 Editors for HTML](https://www.codesnail.com/editor-for-html/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
