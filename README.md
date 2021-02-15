@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [#1 Introduction to HTML](https://www.codesnail.com/introduction-to-html/)
+- [HTML Tutorial](https://www.codesnail.com/html-tutorial/)
 - [Web Design – The Ultimate Guide](https://www.codesnail.com/web-design-the-ultimate-guide/)
 - [Introduction to Web – Detailed Explanation](https://www.codesnail.com/introduction-to-web-detailed-explanation/)
 - [Snake Water Gun Game using Python](https://www.codesnail.com/snake-water-gun-game-using-python/)
-- [Convert Speech to Text and Text to Speech in Python](https://www.codesnail.com/convert-speech-to-text-and-text-to-speech-in-python/)
-- [Random Wikipedia Article Generator in Python](https://www.codesnail.com/random-wikipedia-article-generator-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
