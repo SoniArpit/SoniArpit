@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [#16 HTML id Attribute](https://www.codesnail.com/html-id-attribute/)
 - [#15 HTML class Attribute](https://www.codesnail.com/html-class-attribute/)
 - [#14 HTML Block and Inline Tags](https://www.codesnail.com/html-block-and-inline-tags/)
 - [#13 HTML Lists](https://www.codesnail.com/html-lists/)
 - [#12 HTML Tables](https://www.codesnail.com/html-tables/)
-- [#11 HTML Images](https://www.codesnail.com/html-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
