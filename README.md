@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [#23 HTML Form Elements](https://www.codesnail.com/html-form-elements/)
 - [#22 HTML Form Attribute](https://www.codesnail.com/html-form-attribute/)
 - [#21 HTML Forms – Basic](https://www.codesnail.com/html-forms-basic/)
 - [#20 HTML Entities, Symbols, Emojis](https://www.codesnail.com/html-entities/)
 - [#19 HTML Semantic Elements](https://www.codesnail.com/html-semantic-elements/)
-- [#18 HTML – The Head Element](https://www.codesnail.com/html-the-head-element/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
