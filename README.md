@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [#31 HTML Web Storage API](https://www.codesnail.com/html-web-storage-api/)
+- [#30 HTML Drag and Drop API](https://www.codesnail.com/html-drag-and-drop-api/)
 - [#29 HTML Geolocation API](https://www.codesnail.com/html-geolocation-api/)
 - [#28 HTML Video Control](https://www.codesnail.com/html-video-control/)
 - [#27 HTML Audio Control](https://www.codesnail.com/html-audio-control/)
-- [#26 HTML Input form* Attributes](https://www.codesnail.com/html-input-form-attributes/)
-- [#25 HTML Input Attributes](https://www.codesnail.com/html-input-attributes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
