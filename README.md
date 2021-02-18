@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [#27 HTML Audio Control](https://www.codesnail.com/html-audio-control/)
 - [#26 HTML Input form* Attributes](https://www.codesnail.com/html-input-form-attributes/)
 - [#25 HTML Input Attributes](https://www.codesnail.com/html-input-attributes/)
 - [#24 HTML Input types](https://www.codesnail.com/html-input-types/)
 - [#23 HTML Form Elements](https://www.codesnail.com/html-form-elements/)
-- [#22 HTML Form Attribute](https://www.codesnail.com/html-form-attribute/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
