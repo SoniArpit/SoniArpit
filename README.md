@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Comments](https://www.codesnail.com/css-comments/)
+- [Location of CSS](https://www.codesnail.com/location-of-css/)
 - [CSS Syntax and Structure](https://www.codesnail.com/css-syntax-and-structure/)
 - [Introduction to CSS](https://www.codesnail.com/introduction-to-css/)
 - [CSS Tutorial](https://www.codesnail.com/css-tutorial-intro/)
-- [#32 Difference between HTML and XHTML](https://www.codesnail.com/difference-between-html-and-xhtml/)
-- [#31 HTML Web Storage API](https://www.codesnail.com/html-web-storage-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
