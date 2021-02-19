@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Colors](https://www.codesnail.com/css-colors/)
 - [CSS Backgrounds](https://www.codesnail.com/css-backgrounds/)
 - [CSS Selectors](https://www.codesnail.com/css-selectors/)
 - [CSS Comments](https://www.codesnail.com/css-comments/)
 - [Location of CSS](https://www.codesnail.com/location-of-css/)
-- [CSS Syntax and Structure](https://www.codesnail.com/css-syntax-and-structure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
