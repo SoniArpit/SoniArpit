@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Flexbox](https://www.codesnail.com/css-flexbox/)
 - [CSS Variables](https://www.codesnail.com/css-variables/)
 - [CSS Styling Images](https://www.codesnail.com/css-styling-images/)
 - [CSS Tooltip](https://www.codesnail.com/css-tooltip/)
 - [CSS Animations](https://www.codesnail.com/css-animations/)
-- [CSS Position](https://www.codesnail.com/css-position/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
