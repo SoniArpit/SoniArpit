@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Tooltip](https://www.codesnail.com/css-tooltip/)
+- [CSS Animations](https://www.codesnail.com/css-animations/)
 - [CSS Position](https://www.codesnail.com/css-position/)
 - [CSS Lists](https://www.codesnail.com/css-lists/)
 - [CSS Padding](https://www.codesnail.com/css-padding/)
-- [CSS Margins](https://www.codesnail.com/css-margins/)
-- [CSS Borders](https://www.codesnail.com/css-borders/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
