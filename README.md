@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Pseudo Class](https://www.codesnail.com/css-pseudo-class/)
+- [CSS Gradients](https://www.codesnail.com/css-gradients/)
 - [CSS Wildcard Selectors](https://www.codesnail.com/css-wildcard-selectors/)
 - [CSS Media Queries](https://www.codesnail.com/css-media-queries/)
 - [CSS Flexbox](https://www.codesnail.com/css-flexbox/)
-- [CSS Variables](https://www.codesnail.com/css-variables/)
-- [CSS Styling Images](https://www.codesnail.com/css-styling-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
