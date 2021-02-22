@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Design – The Ultimate Guide](https://www.codesnail.com/web-design-the-ultimate-guide/)
+- [Introduction to Web – Detailed Explanation](https://www.codesnail.com/introduction-to-web-detailed-explanation/)
 - [CSS Pseudo-elements](https://www.codesnail.com/css-pseudo-elements/)
 - [CSS Pseudo Class](https://www.codesnail.com/css-pseudo-class/)
 - [CSS Gradients](https://www.codesnail.com/css-gradients/)
-- [CSS Wildcard Selectors](https://www.codesnail.com/css-wildcard-selectors/)
-- [CSS Media Queries](https://www.codesnail.com/css-media-queries/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
