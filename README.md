@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing the blog data schema – Django Blog #2](https://www.codesnail.com/designing-the-blog-data-schema-django-blog-2/)
 - [Create a Blog in Django – Installation and Setup – Django Blog #1](https://www.codesnail.com/create-a-blog-in-django-installation-and-setup-django-blog-1/)
 - [Everyday Activities to Become a Better Developer](https://www.codesnail.com/everyday-activities-to-become-a-better-developer/)
 - [Web Design – The Ultimate Guide](https://www.codesnail.com/web-design-the-ultimate-guide/)
 - [Introduction to Web – Detailed Explanation](https://www.codesnail.com/introduction-to-web-detailed-explanation/)
-- [CSS Pseudo-elements](https://www.codesnail.com/css-pseudo-elements/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
