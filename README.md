@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding Django Threaded Comments in Blog – Django Blog #6](https://www.codesnail.com/adding-django-threaded-comments-in-blog-django-blog-6/)
+- [Adding Featured Image in Blog Posts – Django Blog #5](https://www.codesnail.com/adding-featured-image-in-blog-posts-django-blog-5/)
 - [Integrating CKEditor in Django Admin and Rendering HTML in a template – Django Blog #4](https://www.codesnail.com/integrating-ckeditor-in-django-admin-and-rendering-html-in-a-template-django-blog-4/)
 - [Displaying List of Posts and Single Post on a Web page and Pagination – Django Blog #3](https://www.codesnail.com/displaying-list-of-posts-and-single-post-on-a-web-page-and-pagination-django-blog-3/)
 - [Designing the blog data schema – Django Blog #2](https://www.codesnail.com/designing-the-blog-data-schema-django-blog-2/)
-- [Create a Blog in Django – Installation and Setup – Django Blog #1](https://www.codesnail.com/create-a-blog-in-django-installation-and-setup-django-blog-1/)
-- [Everyday Activities to Become a Better Developer](https://www.codesnail.com/everyday-activities-to-become-a-better-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
