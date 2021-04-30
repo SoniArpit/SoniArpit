@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Secrets To Boost Your Data Science Skills (Many Ignore It)](https://www.codesnail.com/5-secrets-to-boost-your-data-science-skills-many-ignore-it/)
 - [Make Handwritten Assignment using Python](https://www.codesnail.com/make-handwritten-assignment-using-python/)
 - [The First Computer Programmer Was a Female Mathematician](https://www.codesnail.com/the-first-computer-programmer-was-a-female-mathematician/)
 - [Adding a Sitemap to the Website – Django Blog #10](https://www.codesnail.com/adding-a-sitemap-to-the-website-django-blog-10/)
 - [Building a Search Functionality – Django Blog #9](https://www.codesnail.com/building-a-search-functionality-django-blog-9/)
-- [Retrieving Posts by Similarity – Django Blog #8](https://www.codesnail.com/retrieving-posts-by-similarity-django-blog-8/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
