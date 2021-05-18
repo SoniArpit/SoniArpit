@@ -24,11 +24,11 @@
 ### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Convert any image to ASCII art in Python](https://www.codesnail.com/convert-any-image-to-ascii-art-in-python/)
 - [What is Dogecoin? History of Dogecoin](https://www.codesnail.com/what-is-dogecoin-history-of-dogecoin/)
 - [Linux Commands Cheat Sheet](https://www.codesnail.com/linux-commands-cheat-sheet/)
 - [5 Secrets To Boost Your Data Science Skills (Many Ignore It)](https://www.codesnail.com/5-secrets-to-boost-your-data-science-skills-many-ignore-it/)
 - [Make Handwritten Assignment using Python](https://www.codesnail.com/make-handwritten-assignment-using-python/)
-- [The First Computer Programmer Was a Female Mathematician](https://www.codesnail.com/the-first-computer-programmer-was-a-female-mathematician/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
